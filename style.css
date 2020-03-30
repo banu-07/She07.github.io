@@ -5,7 +5,7 @@ body{
 }
 .container{
 	position: absolute;
-	top: 75%;
+	top: 90%;
 	left: 18%;
 	transform: translate(-50%,-50%);
 	width: 400px;
